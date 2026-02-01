@@ -1,11 +1,9 @@
 ### Greetings! 👋
 
-I'm a software engineering student who enjoys building backend systems and playing with Linux (yes, I use Arch btw `¯\_(ツ)_/¯`).
+I'm a software engineering student who enjoys building impactful and reliable software.
 
 - 🔧 Mostly working with **Python**, **C++**, and **TypeScript**.
-- 📦 Currently building **[Budgetize](https://github.com/fer-hnndz/budgetize-web)** – an open-source budgeting app.
-- 🧠 Always learning and tweaking stuff, especially anything backend or low-level.
-
+- 📦 Currently catching a breath and running on [s2Idle](https://docs.kernel.org/admin-guide/pm/sleep-states.html#suspend-to-idle)
 <br/>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fer-hnndz&show_icons=true&theme=synthwave)
